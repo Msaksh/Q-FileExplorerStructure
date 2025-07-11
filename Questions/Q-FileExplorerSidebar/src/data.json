@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Root Folder",
+        "isFolder": true,
+        "children": [
+            {
+                "id": 2,
+                "name": "Sub Folder 1",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id": 3,
+                        "name": "File 1.txt",
+                        "isFolder": false,
+                        "children": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "File 2.txt",
+                        "isFolder": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Sub Folder 2",
+                "isFolder": true,
+                "children": []
+            },
+            {
+                "id": 6,
+                "name": "File 3.txt",
+                "isFolder": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": " 2nd Root Folder",
+        "isFolder": true,
+        "children": [
+            {
+                "id": 20,
+                "name": "2nd Sub Folder 1",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id": 30,
+                        "name": "2nd File 1.txt",
+                        "isFolder": false,
+                        "children": []
+                    },
+                    {
+                        "id": 40,
+                        "name": "2nd File 2.txt",
+                        "isFolder": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "name": "2nd Sub Folder 2",
+                "isFolder": true,
+                "children": []
+
+            },
+            {
+                "id": 60,
+                "name": "2nd File 3.txt",
+                "isFolder": false,
+                "children": []
+            }
+        ]
+    }
+]
